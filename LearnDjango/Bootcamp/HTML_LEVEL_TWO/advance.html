@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title></title>
+    <style>
+        div {
+            margin-top: 50px
+        }
+
+        .divform {
+            margin-top: 10px;
+        }
+
+        p {
+            margin: 2px;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div>
+        <table border="1" margin="2">
+            <thead>
+                <th>Number</th>
+                <th>Color</th>
+                <th>Country</th>
+            </thead>
+            <tr>
+                <td>1</td>
+                <td>Red</td>
+                <td>Romania</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Blue</td>
+                <td>France</td>
+            </tr>
+        </table>
+    </div>
+
+    <div>
+        <table border="1">
+            <thead>
+                <th>Country Name</th>
+                <th>Country Flag</th>
+                <th>GDP (millions of USD)</th>
+            </thead>
+            <tr>
+                <td>United States</td>
+                <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/190px-Flag_of_the_United_States.svg.png" alt="US flag"></td>
+                <td>18,561,930</td>
+            </tr>
+            <tr>
+                <td>India</td>
+                <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/150px-Flag_of_India.svg.png" alt="India flag"></td>
+                <td>2,250,990</td>
+            </tr>
+            <tr>
+                <td>United Kingdom</td>
+                <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/200px-Flag_of_the_United_Kingdom.svg.png" alt="UK flag"></td>
+                <td>2,649,890</td>
+            </tr>
+        </table>
+    </div>
+    <div>
+        <form>
+            <h1>Log in</h1>
+            <h2>Please input your email and password.</h2>
+
+
+            <input type="email" name="useremail" value="Email Here">
+            <input type="password" name="userpassword" value="Password please">
+            <input type="color">
+            <input type="text">
+            <input type="tel" pattern="[0-9]{10}">
+            <input type="range">
+            <input type="submit" name="usersubmit" value="Submit">
+
+        </form>
+    </div>
+    <div>
+        <form action="https://www.facebook.com" method="get">
+            <h1>Log in</h1>
+            <h2>Please input your email.</h2>
+
+            <input type="email" name="useremail">
+            <input type="submit" name="usersubmit" value="Submit">
+
+        </form>
+    </div>
+
+    <div>
+        <form>
+            <p>Enter some text.</p>
+            <label for="userinput">Enter input:</label>
+            <input id="userinput" type="text" name="" value="" placeholder="req" required>
+            <input type="submit">
+        </form>
+    </div>
+
+    <div>
+        <h1>Hotel Feedback Form</h1>
+
+        <form method="get">
+            <h2>Are you from inside the US? Or outside the US?</h2>
+
+            <label for="inusa">Inside</label>
+            <input id="inusa" type="radio" name="loc" value="Inside">
+
+            <label for="outusa">Outside</label>
+            <input id="outusa" type="radio" name="loc" value="Outside">
+
+
+
+            <h2>How was your service ?</h2>
+            <select name="stars" id="">
+                <option value="Awesome">⭐⭐⭐⭐⭐</option>
+                <option value="Great">⭐⭐⭐⭐</option>
+                <option value="Good">⭐⭐⭐</option>
+                <option value="Ok">⭐⭐</option>
+                <option value="Bad">⭐</option>
+            </select>
+
+            <h2>Any other feedback?</h2>
+
+            <textarea name="mytext" rows="4" cols="25" placeholder="Your feedback."></textarea>
+
+            <input type="submit">
+
+
+        </form>
+    </div>
+
+</body>
+
+</html>

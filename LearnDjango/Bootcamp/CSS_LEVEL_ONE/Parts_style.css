@@ -1,0 +1,84 @@
+body {
+    background: url(https://lh3.googleusercontent.com/zszNLIGy5pXkeoH5jWxUIe5JGPBFXTEXsxnNJ0KmL8ojcenW9b4MvQiuBf7YqFf2QaucPJWPKDzNkin4S_I_YQph=w640-h400-e365-rj-sc0x00ffffff);
+}
+
+h1 {
+    color: red;
+}
+
+h4 {
+    color: rgb(77, 77, 77)
+}
+
+.html1 p {
+    color: magenta;
+}
+
+.html2 p {
+    color: orange;
+}
+
+li {
+    color: green;
+}
+
+div {
+    background: rgba(255, 255, 255, 0.7);
+}
+
+
+.html2 {
+    margin-top: 100px;
+
+}
+
+.html2Inside {
+    background: rgba(0, 0, 255, 0.70);
+    border-color: orange;
+    border-width: 10px;
+    border-style: double;
+}
+
+.html3-firstdiv {
+    color: blue;
+}
+
+.html3-seconddiv {
+    color: red;
+}
+
+#html3-singledout {
+    color: green;
+    -webkit-text-decoration-line: line-through;
+    text-decoration-line: line-through;
+}
+
+span {
+    background: red;
+    color: black;
+}
+
+h3 + ul {
+    border: 4px dotted purple;
+}
+
+li a {
+    color: darkturquoise
+}
+
+li a[href="www.npr.org"] {
+    color: blue;
+    border: 5px solid orange;
+}
+
+.html4 li {
+    color: red;
+}
+
+.html4 .topitems {
+    color: blue;
+}
+
+.html4 #two {
+    border: 3px solid black;
+}
