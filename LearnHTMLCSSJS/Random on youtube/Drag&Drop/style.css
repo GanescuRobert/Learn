@@ -1,0 +1,44 @@
+body {
+    background: #333;
+
+}
+
+.fill {
+    background-image: url(http://source.unsplash.com/random/150x150);
+    position: relative;
+    height: 150px;
+    width: 150px;
+    top: 5px;
+    left: 5px;
+    cursor: pointer;
+}
+
+.empty-cell {
+    display: block;
+    height: 160px;
+    width: 160px;
+    margin: 10px;
+    border: 3px #005a50;
+    background: grey;
+}
+
+.hold {
+    border: solid #ccc 4px;
+
+}
+
+.hovered {
+    background: #f4f4f4;
+
+    border-style: dashed;
+}
+
+.invisible {
+    display: none;
+
+    border-style: dashed;
+}
+
+.list {
+    display: inline-block;
+}

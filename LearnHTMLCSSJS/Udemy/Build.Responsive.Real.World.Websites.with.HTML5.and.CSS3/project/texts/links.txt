@@ -1,0 +1,2 @@
+https://ionicons.com/ -> for icons
+https://www.0to255.com/ -> for lighten or darken colors.

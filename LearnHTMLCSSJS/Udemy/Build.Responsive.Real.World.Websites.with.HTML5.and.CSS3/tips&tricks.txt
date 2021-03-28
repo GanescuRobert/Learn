@@ -1,0 +1,72 @@
+Name: Build Responsive Websites with HTML5 and CSS3 | Udemy
+Udemy link: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
+Filelist link: https://filelist.io/details.php?id=688581
+
+4.2. Beautiful typography
+	1. Font-size between 15 and 25 
+	2. Use big font sizes for Headlines
+	3. Use line spacing between 120 and 150%
+	4. 45 to 95 chars per line
+	5. Good fonts: 
+		~Sans-serif 			~Serif
+			* More neutral			* Traditional purposes
+			* Clean				* Storytelling
+			* Simple			* Long Reading
+			* Modern websites  
+	
+		*Open Sans			Cardo
+		*Lato				Merriweather
+		*Raleway			PT Serif
+		*Monsterrat
+		*PT Sans
+4.3. Using colors like a pro
+	
+	1. Use only one base color https://flatuicolors.com/
+	2. Use a tool if you want to use more colors https://color.adobe.com/create/color-wheel
+	3. Use color to draw attention
+	4. Never use black in your design
+
+4.4 Working with colors
+
+	Red is a great color to use when power, passion, strength and excitement want to be transmitted. Brighter tones are more energetic and darker shades are more powerful and elegant.
+
+	Orange draws attention without being as overpowering as red. It means cheerfulness and creativity. Orange can be associated with friendliness, confidence, and courage.
+
+	Yellow is energetic and gives the feeling of happiness and liveliness. Also, it associates with curiosity, intelligence, brightness, etc.
+
+	Green is the color of harmony, nature, life and health. Also, it is often associated with money. In design, green can have a balancing and harmonizing effect.
+
+	Blue means patience, peace, trustworthiness, and stability. It is one of the most beloved colors, especially by men. It is associated with professionalism, trust and honor. That's actually why the biggest social networks use blue.
+
+	Purple is traditionally associated with power, nobility and wealth. In your design, purple can give a sense of wisdom, royalty, nobility, luxury, and mystery.
+
+	Pink expresses romance, passivity, care, peace, affection, etc.
+
+	Brown is the color of relaxation and confidence. Brown means earthiness, nature, durability, comfort, and reliability.
+
+4.6 Working with images
+	1. Put text directly on the image
+	2. Overlay the image with color and add text which have a good contrast on that color
+	3. Put text in a square layout
+	4. Blur the image
+	5. The floor fade
+
+4.6 Working with icons
+	1. Use icons to list features/steps
+	2. Use icons for actions and link
+		a) icons should be recognizable
+		b) Label your icons
+	3. Icons should not take a center stage
+	4. use icon fonts whenever possible (vector)
+
+4.7 Spacing and layout
+	1. SPACES between:
+			- elements
+			- groups of elements
+			- website's sections
+			- do not exagerate
+	
+	2. Define Hierarchy
+		a) Define where you want your audience to look first
+		b) Establish a flow that coreesponds to your content's message
+		c) use whitespace to build that flow
