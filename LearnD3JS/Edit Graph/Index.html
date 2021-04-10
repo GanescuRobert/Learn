@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>LFA</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="" href="/Force Simulation/style.css">
+
+</head>
+
+<body>
+    <h1 class="row justify-content-center mb-5 mt-5">LFA Tema2</h1>
+    <div class="container justify-content-center mt-5">
+
+        <div class="row justify-content-center">
+            <div style="border: 2px solid black;padding: 0px;" id="graphBoard" width="700" height="700"></div>
+        </div>
+
+        <div class="row mt-5 mb-5">
+
+            <div class="col align-self-start">
+                <form name="newNode">
+                    <input name="newNodeSubmit" type="button" value="New node" onclick="createNodeClick()">
+                    <input type="text" id="newNodeName" placeholder="Add node name&hellip;">
+                </form>
+                <form name="newLink">
+                    <input name="newLinkSubmit" type="button" value="New link" onclick="createLinkClick()">
+                    <input type="text" id="newSource" placeholder="Add source name&hellip;">
+                    <input type="text" id="newTarget" placeholder="Add target name&hellip;">
+                </form>
+            </div>
+
+            <div class="col align-self-end ">
+                <form name="removeNode">
+                    <input name="removeNodeSubmit" type="button" value="Remove node" onclick="removeNodeClick()">
+                    <input type="text" id="removeNodeName" placeholder="Remove node name&hellip;">
+                </form>
+                <form name="removeLink">
+                    <input name="removeLinkSubmit" type="button" value="Remove link" onclick="removeLinkClick()">
+                    <input type="text" id="removeSource" placeholder="Add source name&hellip;">
+                    <input type="text" id="removeTarget" placeholder="Add target name&hellip;">
+                </form>
+            </div>
+
+        </div>
+
+    </div>
+    <script src="https://d3js.org/d3.v3.min.js "></script>
+    <script src="/Force Simulation/script.js"></script>
+</body>
+
+</html>
