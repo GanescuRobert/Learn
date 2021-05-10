@@ -1,0 +1,3 @@
+Name: Introduction to SQL (Computer Science)
+Link: https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt
+Time: 1:49:18
