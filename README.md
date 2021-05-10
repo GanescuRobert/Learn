@@ -43,3 +43,9 @@ Build Tic Tac Toe using HTML + CSS + Javascript!
 https://www.youtube.com/watch?v=Rzhcb4M9-0Q
 Build Responsive Real World Websites with HTML5 and CSS3
 https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
+
+Python Artificial Intelligence Projects for Beginners
+https://www.packtpub.com/product/python-artificial-intelligence-projects-for-beginners/9781789539462
+
+NLTK with Python 3 for Natural Language Processing
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL
